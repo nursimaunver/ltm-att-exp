@@ -1,0 +1,3 @@
+'M' ile Math librarysi
+x, y yerine _mouseXYs[0], _mouseXYs[1]
+clear events hatası
